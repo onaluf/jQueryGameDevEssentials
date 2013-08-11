@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="140" height="7" tilewidth="70" tileheight="70">
+ <tileset firstgid="1" name="tiles" tilewidth="70" tileheight="70">
+  <image source="tiles.png" width="560" height="70"/>
+ </tileset>
+ <tileset firstgid="9" name="tileslogic" tilewidth="70" tileheight="70">
+  <image source="tileslogic.png" width="700" height="70"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="140" height="7">
+  <data encoding="base64" compression="zlib">
+   eJztlt0KgCAMhVW03v+NYxfBGLk/l1j4wWEoI9w4zlLabNYjK3JKJ2qB/JPEUZqwXhFL3Z5eVyJNngWNV1bD65MmRCuefv8B7N9o/2juRuTMAb4wZ2Yz4uucZF94ffPGuwPM9kBvdlhnSkPi9jC9tz+ql5sN0BQ6GNHc0yn6D/Uk7hweSfVye71vFKI7r6JYmfotPYqq16ILfWYD2g==
+  </data>
+ </layer>
+ <layer name="logic" width="140" height="7" opacity="0.4">
+  <data encoding="base64" compression="zlib">
+   eJztVtEKwCAI7LX6//8de+hFND21RqMDiYF5dti1Ui4ubOgbuSqQQ1eEo5E1Clojo+ZqID0iWo95qSRmtbWcWU8nwTsn0sx7NfDovQpf+Uv2+a3eleU5Vs6/QZuXiCaWexG5c9nvTqSfCB/HiXoK5/vaW+DxwZ3+cnE+3nmh/y5ctEkguUgdtI9MzgGOW/rWeq7CfqnuCq0tGmvxAPcPB44=
+  </data>
+ </layer>
+</map>

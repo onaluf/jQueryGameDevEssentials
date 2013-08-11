@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   inkscape:export-filename="/Users/selim/Development/Aptatana Workspace/5060ot-jquery_game_development_essentials/code/chapter 2/splash.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="splash.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="402.22092"
+     inkscape:cy="171.19647"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1400"
+     inkscape:window-height="854"
+     inkscape:window-x="44"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="fill:#483737;fill-opacity:1;stroke:none"
+       id="rect3880"
+       width="650"
+       height="490"
+       x="-4"
+       y="-1.9999981" />
+    <path
+       style="fill:#f0efd8;fill-opacity:1;stroke:#000000;stroke-width:1.23513281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.74823,-53.315175 3.47145,326.956925 444.34432,42.18799 100.67175,-52.73499 0,-319.925591 z"
+       id="path3882"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#aca182;fill-opacity:1;stroke:#000000;stroke-width:1.23513281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 178.36971,-53.315176 0,254.885776 413.10137,21.094 0,-298.831604 z"
+       id="path3886"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e9fcfb;fill-opacity:1;stroke:#000000;stroke-width:1.23513281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 190.51976,-55.073008 0,230.276118 381.8584,12.30482 0,-281.253263 z"
+       id="path3888"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.23513281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 608.82827,312.31408 0,-414.84858"
+       id="path3890"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 494.62119,300.04132 39.24442,4.5962 0,-29.34493 -37.83021,-1.41422 z"
+       id="path3906"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.18377,489.89949 c 0,0 9.76273,-31.28201 24.041626,-36.76954 17.745978,-6.81998 41.012194,-9.8995 65.053824,-5.65686 24.04163,4.24264 258.80108,52.3259 311.12698,36.76955 52.3259,-15.55635 32.31941,-57.50262 26.87006,-62.22539 -21.2132,-18.38478 -134.35029,-31.1127 -118.79394,-65.05383 15.55635,-33.94112 115.96551,-21.2132 145.664,-35.35534 29.69848,-14.14213 31.81981,-28.63782 31.81981,-28.63782 0,0 1.80058,-11.67789 -8.83884,-12.02082 -5.75124,-0.18537 -9.8995,8.13173 -9.8995,8.13173 0,0 -7.42462,15.55635 -32.88046,19.79899 -25.45585,4.24264 -111.72287,7.07107 -135.7645,19.79899 -24.04163,12.72793 -31.1127,35.35533 -24.04163,50.91168 7.07107,15.55635 155.2918,63.91131 115.96551,69.29647 -19.11425,10.83256 -305.47013,-59.39697 -345.068115,-52.3259 -39.597975,7.07106 -77.7817409,12.72792 -106.066012,65.05382 -28.284271,52.32591 21.2132039,26.87007 21.2132039,26.87007 z"
+       id="path3884"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssscscssscsscc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aca182;fill-opacity:1;stroke:none;font-family:Time;-inkscape-font-specification:Time"
+       id="text3908"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path3912"
+         id="textPath3914"><tspan
+   style="font-family:Times New Roman;-inkscape-font-specification:Times New Roman;fill:#aca182;fill-opacity:1"
+   id="tspan3910">ENEMIGA</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.11984,266.45375 207.88939,13.08148"
+       id="path3912"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-572.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serto Batnan;-inkscape-font-specification:Serto Batnan Bold"
+       x="205.93756"
+       y="674.65155"
+       id="text3798"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3800"
+         x="205.93756"
+         y="674.65155"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'G.B.BOOT';-inkscape-font-specification:'G.B.BOOT Bold'">Coder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="335.8757"
+       y="731.93878"
+       id="text3802"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3804"
+         x="335.8757"
+         y="731.93878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'G.B.BOOT';-inkscape-font-specification:'G.B.BOOT'">click to start</tspan></text>
+  </g>
+</svg>

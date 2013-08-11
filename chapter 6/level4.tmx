@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="140" height="7" tilewidth="70" tileheight="70">
+ <tileset firstgid="1" name="tiles" tilewidth="70" tileheight="70">
+  <image source="tiles.png" width="560" height="70"/>
+ </tileset>
+ <tileset firstgid="9" name="tileslogic" tilewidth="70" tileheight="70">
+  <image source="tileslogic.png" width="700" height="70"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="140" height="7">
+  <data encoding="base64" compression="zlib">
+   eJzlltsOwyAMQ4H1wv9/8YREVMtyIKxPay1Z20SAkJzRHmmsozsPxo7J/LN7FIcqYo26MN+kco5o6/5Fe5rX5J9VA+MqJsMYjp9ivtWv9vGSLoaUkBebt6U1ZrLzPaI7/ca6PFEeC2bv7JWsesJMeXuxkBdjxTxjxvKOSrFxp99v4yUnzctBZg68dTgm8r8tEMfrrqwTkcp99jwqYFR7Fr2Bl3ZGfE9RvEQ8m99+R95jSrrqjXXfwR4z6p2KWefz4x4b2csPPy232Z38BK3woNz6/+mexWI9uYfImvGyk5FDjxl133EevO7ovlKsKV4iz/An6C4vK8Z6qrsHeWE+lK3X3PsRF96eKl7NUTGc65N5+QL/pwd+
+  </data>
+ </layer>
+ <layer name="logic" width="140" height="7" opacity="0.4">
+  <data encoding="base64" compression="zlib">
+   eJztVtEKhDAM68MhbPf//yuC40pZ1mwtiKeBIrq2qUtwinAoZB6qjdSv8tcg5wqu4LwDkH7eftWzthK5musz4PTmmNUw4u8n+qXI/J71cpl6L6d5pYWXP+PDEefrFw5F1vyC+mTMwzyL9M/ql+HVO+DYr+2MqF9G9e0cYvvoq8hPjyp5Gq++59fc69leYDTt2LNnlKfX9T8OCvTtsTzWw0wfD0/1i6dJZmi9rG5W55meqA/i760jf3pe68U/Ywf9cAb/
+  </data>
+ </layer>
+</map>

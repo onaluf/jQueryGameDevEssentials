@@ -1,0 +1,100 @@
+<html>
+	<head>
+		<title>The Legend Of Ar'PiGi</title>
+		
+		<meta name="viewport" content="user-scalable=no, width=480" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<!--<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />-->
+		
+		<link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script type="text/javascript" src="gameFramework.js"></script>
+		<script type="text/javascript" src="rpg.js"></script>
+		<style>
+			body {
+				margin: 0;
+				padding: 0;
+				font-family: "Press Start 2P";
+				font-size: 6pt;
+			}
+			.screen {
+				text-align: center;
+				position: absolute;
+				top: 0;
+				left: 0;
+				padding-top: 40px;
+				width: 480px;
+				height: 320px;
+				display: none;
+			}
+			.visible {
+				display: block;
+			}
+			.screen h1 {
+				margin-bottom: 10px;
+			}
+			.button {
+				background: #F00;
+				color: #FFF;
+				border: solid 4px #F99;
+				border-right: solid 4px #900;
+				border-bottom: solid 4px #900;
+				text-decoration: none;
+				padding: 15px;
+				cursor: pointer;
+			}
+			.button:hover {
+				background: #F22;
+				border: solid 4px #900;
+				border-right: solid 4px #F99;
+				border-bottom: solid 4px #F99;
+			}
+			.left{
+				position: absolute;
+				bottom: 50px;
+				left: 50px;
+			}
+			.right{
+				position: absolute;
+				bottom: 50px;
+				right: 50px;
+			}
+			input {
+				font-family: "Press Start 2P";
+				font-size: 8pt;
+				color: #FFF;
+				padding: 4px;
+				background: rgba(0,0,0,0.5);
+				border: solid 4px #FFF;
+			}
+			.input {
+				text-align: right;
+				width: 320px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="mygame" style="position: relative; width: 480px; height: 320px; overflow: hidden; background: #5e81a1; -webkit-transform:translateZ(0); -moz-transform:translateZ(0); transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1)">
+			<!--<img id="startButton" src="start.png" />-->
+			<div id="login" class="screen">
+				<h1>Login</h1>
+				<div class="input"><span>name:</span><input id="login-name" type="text" /></div>
+				<div class="input"><span>pw:</span><input id="login-pw" type="text" /></div>
+				<a class="button left" id="login-create" href="#">create new account</a>
+				<a class="button right" id="login-login" href="#">login</a>
+			</div>
+			<div id="session" class="screen">
+				<h1>Welcome back "<span id="session-name"></span>"!</h1>
+				<a class="button" id="session-continue" href="#">continue</a>
+				<a class="button" id="session-logout" href="#">logout</a>
+			</div>
+			<div id="create" class="screen">
+				<h1>Create an account</h1>
+				<div class="input"><span>name:</span><input id="create-name" type="text" /></div>
+				<div class="input"><span>pw:</span><input id="create-pw" type="text" /></div>
+				<a class="button left" id="create-cancel" href="#">cancel</a>
+				<a class="button right" id="create-create" href="#">create</a>
+			</div>
+		</div>
+	</body>
+</html>

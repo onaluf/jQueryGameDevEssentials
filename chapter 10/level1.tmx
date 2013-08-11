@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="7" tilewidth="70" tileheight="70">
+ <tileset firstgid="1" name="base" tilewidth="70" tileheight="70">
+  <image source="tiles.png" width="490" height="70"/>
+ </tileset>
+ <tileset firstgid="8" name="logic" tilewidth="70" tileheight="70">
+  <image source="tileslogic.png" width="700" height="70"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjZgBGKRwF5gJiwYyLCjIGMA0rsJ1YvNnXEiGGTx2Y2PvmhCHD5gxUPZsODSVVPKsbnLmwYAKk0ASs=
+  </data>
+ </layer>
+ <layer name="logic" width="50" height="7" opacity="0.42">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjZgAOKRwF5AFvYcRGhBl1+IOMAl/3o/iBFLzHqiBHDJo/NbHzyxPhjsAFc/uDAgznxYFLVk4rxuQsbBgCPvgJ7
+  </data>
+ </layer>
+</map>
