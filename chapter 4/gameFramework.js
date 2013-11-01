@@ -270,8 +270,8 @@ gf.transform = function(div, options){
 
 gf.width = function(div,dimension) {
     if(dimension) {
-        div.css("width", position); 
-        div.data("gf").width = position;
+        div.css("width", dimension);
+        div.data("gf").width = dimension;
     } else {
         return div.data("gf").width; 
     }
@@ -279,8 +279,8 @@ gf.width = function(div,dimension) {
 
 gf.height = function(div,dimension) {
     if(dimension) {
-        div.css("height", position); 
-        div.data("gf").height = position;
+        div.css("height", dimension);
+        div.data("gf").height = dimension;
     } else {
         return div.data("gf").height; 
     }
@@ -293,9 +293,8 @@ gf.imagesToPreload = [];
  **/
 gf.addImage = function(url) {
     if ($.inArray(url, gf.imagesToPreload) < 0) {
-        gf.imagesToPreload.push();
+        gf.imagesToPreload.push(url);
     }
-    gf.imagesToPreload.push(url);
 };
 
 gf.callbacks = [];
@@ -375,8 +374,8 @@ gf.startGame = function(endCallback, progressCallback) {
             gf.time = (new Date()).getTime();
         } else {
             if (progressCallback) {
-                count++;
-                progressCallback((count / total) * 100);
+                counter++;
+                progressCallback((counter / total) * 100);
             }
         }
     }, 100);

@@ -549,9 +549,8 @@ gf.imagesToPreload = [];
  **/
 gf.addImage = function(url) {
     if ($.inArray(url, gf.imagesToPreload) < 0) {
-        gf.imagesToPreload.push();
+        gf.imagesToPreload.push(url);
     }
-    gf.imagesToPreload.push(url);
 };
 
 gf.callbacks = [];
@@ -634,8 +633,8 @@ gf.startGame = function(endCallback, progressCallback) {
             gf.time = (new Date()).getTime();
         } else {
             if (progressCallback) {
-                count++;
-                progressCallback((count / total) * 100);
+                counter++;
+                progressCallback((counter / total) * 100);
             }
         }
     }, 100);
